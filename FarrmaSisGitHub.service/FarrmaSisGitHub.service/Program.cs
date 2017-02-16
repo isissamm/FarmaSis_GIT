@@ -10,7 +10,8 @@ namespace FarrmaSisGitHub.service
     {
         static void Main(string[] args)
         {
-            Console.Wrileline("iniciando proceso...");
+            Console.WriteLine("iniciando proceso...");
+            Console.WriteLine("no se que es.....go");
         }
     }
 }
